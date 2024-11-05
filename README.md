@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @demonT1554
+- 👋 Hi, I’m Demon (@demonT1554)
 - 👀 I am interested in everything related to technology.
 - 🌱 I am currently studying software engineering at FPT university.
 - 💞️ I am looking for collaboration opportunities on open source projects, machine learning algorithms or innovative web applications.
